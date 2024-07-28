@@ -240,5 +240,21 @@
     },
     "ip_address": "185.183.33.33",
     "timestamp": "2024-07-28T13:51:12.496Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "location": {
+      "Latitude": "51.9942",
+      "Longitude": "4.2097"
+    },
+    "region": "South Holland",
+    "city": "Naaldwijk",
+    "ip_address": "185.183.33.33",
+    "timestamp": "2024-07-28T13:52:14.942Z"
   }
 ]
