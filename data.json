@@ -14,5 +14,21 @@
     },
     "ip_address": "94.47.177.247",
     "timestamp": "2024-07-28T14:28:31.521Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.146",
+    "timestamp": "2024-07-28T15:36:55.118Z"
   }
 ]
