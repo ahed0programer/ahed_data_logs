@@ -142,5 +142,21 @@
     },
     "ip_address": "212.8.250.217",
     "timestamp": "2024-07-29T10:50:08.265Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Rijswijk",
+    "location": {
+      "latitude": "52.03770",
+      "longitude": "4.32197"
+    },
+    "ip_address": "212.8.250.217",
+    "timestamp": "2024-07-29T11:01:49.535Z"
   }
 ]
