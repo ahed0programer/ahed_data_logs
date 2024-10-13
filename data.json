@@ -206,5 +206,21 @@
     },
     "ip_address": "93.190.140.103",
     "timestamp": "2024-08-16T13:14:44.756Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Naaldwijk",
+    "location": {
+      "latitude": "51.99237",
+      "longitude": "4.20803"
+    },
+    "ip_address": "185.177.124.101",
+    "timestamp": "2024-10-13T11:47:00.464Z"
   }
 ]
