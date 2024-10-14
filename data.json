@@ -238,5 +238,21 @@
     },
     "ip_address": "94.47.167.73",
     "timestamp": "2024-10-14T12:24:47.842Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+    "language": "en-US",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "5.155.25.68",
+    "timestamp": "2024-10-14T12:45:09.317Z"
   }
 ]
