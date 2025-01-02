@@ -270,5 +270,21 @@
     },
     "ip_address": "94.47.167.73",
     "timestamp": "2024-10-14T14:44:32.075Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 361.0.0.35.82 (iPhone12,3; iOS 18_1_1; sv_SE; sv; scale=3.00; 1125x2436; 674117118; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 361.0.0.35.82 (iPhone12,3; iOS 18_1_1; sv_SE; sv; scale=3.00; 1125x2436; 674117118; IABMV/1)",
+    "language": "sv-SE",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Sweden",
+    "city": "Helsingborg",
+    "location": {
+      "latitude": "56.04647",
+      "longitude": "12.69451"
+    },
+    "ip_address": "83.250.74.43",
+    "timestamp": "2025-01-02T02:47:10.955Z"
   }
 ]
