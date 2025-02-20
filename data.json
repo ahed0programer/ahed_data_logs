@@ -414,5 +414,21 @@
     },
     "ip_address": "173.252.127.4",
     "timestamp": "2025-02-20T16:44:22.007Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/494.0.0.61.104;]",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/494.0.0.61.104;]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Ireland",
+    "city": "Ringsend",
+    "location": {
+      "latitude": "53.34418",
+      "longitude": "-6.26445"
+    },
+    "ip_address": "31.13.127.7",
+    "timestamp": "2025-02-20T16:44:44.494Z"
   }
 ]
