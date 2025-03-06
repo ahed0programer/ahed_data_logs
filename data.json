@@ -462,5 +462,21 @@
     },
     "ip_address": "94.252.199.110",
     "timestamp": "2025-03-06T12:20:20.815Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Mountain View",
+    "location": {
+      "latitude": "37.42240",
+      "longitude": "-122.08421"
+    },
+    "ip_address": "66.102.8.96",
+    "timestamp": "2025-03-06T12:20:23.725Z"
   }
 ]
