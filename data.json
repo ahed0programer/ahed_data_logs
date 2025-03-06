@@ -430,5 +430,21 @@
     },
     "ip_address": "31.13.127.7",
     "timestamp": "2025-02-20T16:44:44.494Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51651",
+      "longitude": "36.31724"
+    },
+    "ip_address": "94.252.199.110",
+    "timestamp": "2025-03-06T12:20:08.028Z"
   }
 ]
