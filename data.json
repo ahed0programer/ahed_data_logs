@@ -478,5 +478,21 @@
     },
     "ip_address": "66.102.8.96",
     "timestamp": "2025-03-06T12:20:23.725Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 372.1.0.32.73 (iPhone12,5; iOS 17_6_1; sv_SE; sv; scale=3.00; 1242x2688; 710119385; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 372.1.0.32.73 (iPhone12,5; iOS 17_6_1; sv_SE; sv; scale=3.00; 1242x2688; 710119385; IABMV/1)",
+    "language": "sv-SE",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Sweden",
+    "city": "Staffanstorp",
+    "location": {
+      "latitude": "55.64107",
+      "longitude": "13.21223"
+    },
+    "ip_address": "213.113.253.35",
+    "timestamp": "2025-03-23T00:24:46.686Z"
   }
 ]
