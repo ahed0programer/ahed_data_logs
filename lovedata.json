@@ -287,5 +287,22 @@
     "ip_address": "5.155.33.229",
     "timestamp": "2025-08-16T13:16:14.280Z",
     "source": "love3 game"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Mountain View",
+    "location": {
+      "latitude": "37.42240",
+      "longitude": "-122.08421"
+    },
+    "ip_address": "74.125.210.96",
+    "timestamp": "2025-08-16T13:17:09.280Z",
+    "source": "love3 game"
   }
 ]
