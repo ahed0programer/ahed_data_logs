@@ -1,0 +1,612 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "94.47.177.247",
+    "timestamp": "2024-07-28T14:28:31.521Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.146",
+    "timestamp": "2024-07-28T15:36:55.118Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.149",
+    "timestamp": "2024-07-28T17:18:51.144Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.149",
+    "timestamp": "2024-07-28T17:24:31.486Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.149",
+    "timestamp": "2024-07-28T17:24:34.301Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "169.150.196.149",
+    "timestamp": "2024-07-28T17:46:01.343Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Infinix X669 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36 Instagram 341.0.0.45.100 Android (31/12; 320dpi; 720x1444; INFINIX/Infinix; Infinix X669; Infinix-X669; X669; en_US; 625506510)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; Infinix X669 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36 Instagram 341.0.0.45.100 Android (31/12; 320dpi; 720x1444; INFINIX/Infinix; Infinix X669; Infinix-X669; X669; en_US; 625506510)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "94.47.177.247",
+    "timestamp": "2024-07-28T18:02:04.172Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21D61 Instagram 341.0.1.29.93 (iPhone15,3; iOS 17_3_1; en_US; en; scale=3.00; 1290x2796; 624397202; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21D61 Instagram 341.0.1.29.93 (iPhone15,3; iOS 17_3_1; en_US; en; scale=3.00; 1290x2796; 624397202; IABMV/1)",
+    "language": "en-US",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "5.0.156.197",
+    "timestamp": "2024-07-28T18:14:00.055Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Rijswijk",
+    "location": {
+      "latitude": "52.03770",
+      "longitude": "4.32197"
+    },
+    "ip_address": "212.8.250.217",
+    "timestamp": "2024-07-29T10:50:08.265Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Rijswijk",
+    "location": {
+      "latitude": "52.03770",
+      "longitude": "4.32197"
+    },
+    "ip_address": "212.8.250.217",
+    "timestamp": "2024-07-29T11:01:49.535Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Infinix X669 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36 Instagram 341.0.0.45.100 Android (31/12; 320dpi; 720x1444; INFINIX/Infinix; Infinix X669; Infinix-X669; X669; en_US; 625506510)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; Infinix X669 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36 Instagram 341.0.0.45.100 Android (31/12; 320dpi; 720x1444; INFINIX/Infinix; Infinix X669; Infinix-X669; X669; en_US; 625506510)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "31.9.72.208",
+    "timestamp": "2024-07-29T19:27:09.660Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.53 Mobile Safari/537.36 Instagram 343.0.0.33.101 Android (26/8.0.0; 420dpi; 1080x1920; samsung; SM-G935F; hero2lte; samsungexynos8890; en_US; 629710217)",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.53 Mobile Safari/537.36 Instagram 343.0.0.33.101 Android (26/8.0.0; 420dpi; 1080x1920; samsung; SM-G935F; hero2lte; samsungexynos8890; en_US; 629710217)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "31.9.190.241",
+    "timestamp": "2024-08-09T15:29:59.265Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Instagram 351.1.0.42.106 Android (33/13; 420dpi; 1080x2270; samsung; SM-A715F; a71; qcom; en_GB; 649118116)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 13; SM-A715F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Instagram 351.1.0.42.106 Android (33/13; 420dpi; 1080x2270; samsung; SM-A715F; a71; qcom; en_GB; 649118116)",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Turkey",
+    "city": "Konya",
+    "location": {
+      "latitude": "37.87464",
+      "longitude": "32.49316"
+    },
+    "ip_address": "81.213.85.139",
+    "timestamp": "2024-10-13T19:48:31.835Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Instagram 351.1.0.42.106 Android (33/13; 420dpi; 1080x2270; samsung; SM-A715F; a71; qcom; en_GB; 649118116)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 13; SM-A715F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Instagram 351.1.0.42.106 Android (33/13; 420dpi; 1080x2270; samsung; SM-A715F; a71; qcom; en_GB; 649118116)",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Turkey",
+    "city": "Konya",
+    "location": {
+      "latitude": "37.87464",
+      "longitude": "32.49316"
+    },
+    "ip_address": "81.213.85.139",
+    "timestamp": "2024-10-13T19:49:20.150Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "94.47.167.73",
+    "timestamp": "2024-10-14T12:24:47.842Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+    "language": "en-US",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "5.155.25.68",
+    "timestamp": "2024-10-14T12:45:09.317Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51656",
+      "longitude": "36.31708"
+    },
+    "ip_address": "94.47.167.73",
+    "timestamp": "2024-10-14T14:44:32.075Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 361.0.0.35.82 (iPhone12,3; iOS 18_1_1; sv_SE; sv; scale=3.00; 1125x2436; 674117118; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 361.0.0.35.82 (iPhone12,3; iOS 18_1_1; sv_SE; sv; scale=3.00; 1125x2436; 674117118; IABMV/1)",
+    "language": "sv-SE",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Sweden",
+    "city": "Helsingborg",
+    "location": {
+      "latitude": "56.04647",
+      "longitude": "12.69451"
+    },
+    "ip_address": "83.250.74.43",
+    "timestamp": "2025-01-02T02:47:10.955Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "212.83.165.160",
+    "timestamp": "2025-01-17T15:46:41.029Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Netherlands",
+    "city": "Amsterdam",
+    "location": {
+      "latitude": "52.37018",
+      "longitude": "4.87324"
+    },
+    "ip_address": "212.83.165.160",
+    "timestamp": "2025-01-27T20:24:39.908Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-G980F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.262 Mobile Safari/537.36 Instagram 366.0.0.34.86 Android (31/12; 480dpi; 1080x2277; samsung; SM-G980F; x1s; exynos990; en_GB; 693496544)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; SM-G980F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.262 Mobile Safari/537.36 Instagram 366.0.0.34.86 Android (31/12; 480dpi; 1080x2277; samsung; SM-G980F; x1s; exynos990; en_GB; 693496544)",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51651",
+      "longitude": "36.31724"
+    },
+    "ip_address": "94.252.199.110",
+    "timestamp": "2025-02-19T22:47:24.485Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51651",
+      "longitude": "36.31724"
+    },
+    "ip_address": "94.252.199.110",
+    "timestamp": "2025-02-19T22:48:16.069Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 367.0.0.23.85 (iPhone12,1; iOS 17_6_1; sv_SE; sv; scale=2.00; 828x1792; 695136484; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 367.0.0.23.85 (iPhone12,1; iOS 17_6_1; sv_SE; sv; scale=2.00; 828x1792; 695136484; IABMV/1)",
+    "language": "sv-SE",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Sweden",
+    "city": "Helsingborg",
+    "location": {
+      "latitude": "56.04647",
+      "longitude": "12.69451"
+    },
+    "ip_address": "213.89.47.124",
+    "timestamp": "2025-02-20T16:43:03.407Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-G975F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/493.0.0.52.106;]",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; SM-G975F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/493.0.0.52.106;]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Ireland",
+    "city": "Ringsend",
+    "location": {
+      "latitude": "53.34418",
+      "longitude": "-6.26445"
+    },
+    "ip_address": "31.13.127.11",
+    "timestamp": "2025-02-20T16:43:09.288Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A217F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.260 Mobile Safari/537.36 [FBAN/AudienceNetworkForWindows;FBDV/SM-A217F;FBSV/12;FBAV/446.0.0.18.68;FBLC/en_US]",
+    "platform": "Windows",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; SM-A217F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.260 Mobile Safari/537.36 [FBAN/AudienceNetworkForWindows;FBDV/SM-A217F;FBSV/12;FBAV/446.0.0.18.68;FBLC/en_US]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Menlo Park",
+    "location": {
+      "latitude": "37.48221",
+      "longitude": "-122.15049"
+    },
+    "ip_address": "173.252.127.9",
+    "timestamp": "2025-02-20T16:43:31.304Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A047F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/500.0.0.57.50;IABMV/1;]",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 14; SM-A047F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/500.0.0.57.50;IABMV/1;]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Menlo Park",
+    "location": {
+      "latitude": "37.48221",
+      "longitude": "-122.15049"
+    },
+    "ip_address": "173.252.127.4",
+    "timestamp": "2025-02-20T16:44:22.007Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/494.0.0.61.104;]",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.165 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/494.0.0.61.104;]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Ireland",
+    "city": "Ringsend",
+    "location": {
+      "latitude": "53.34418",
+      "longitude": "-6.26445"
+    },
+    "ip_address": "31.13.127.7",
+    "timestamp": "2025-02-20T16:44:44.494Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51651",
+      "longitude": "36.31724"
+    },
+    "ip_address": "94.252.199.110",
+    "timestamp": "2025-03-06T12:20:08.028Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "language": "en-GB",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.51651",
+      "longitude": "36.31724"
+    },
+    "ip_address": "94.252.199.110",
+    "timestamp": "2025-03-06T12:20:20.815Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Mountain View",
+    "location": {
+      "latitude": "37.42240",
+      "longitude": "-122.08421"
+    },
+    "ip_address": "66.102.8.96",
+    "timestamp": "2025-03-06T12:20:23.725Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 372.1.0.32.73 (iPhone12,5; iOS 17_6_1; sv_SE; sv; scale=3.00; 1242x2688; 710119385; IABMV/1)",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 Instagram 372.1.0.32.73 (iPhone12,5; iOS 17_6_1; sv_SE; sv; scale=3.00; 1242x2688; 710119385; IABMV/1)",
+    "language": "sv-SE",
+    "vendor": "Apple Computer, Inc.",
+    "country_name": "Sweden",
+    "city": "Staffanstorp",
+    "location": {
+      "latitude": "55.64107",
+      "longitude": "13.21223"
+    },
+    "ip_address": "213.113.253.35",
+    "timestamp": "2025-03-23T00:24:46.686Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBAV/499.0.0.53.105;FBBV/693867054;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/3;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/697301994]",
+    "platform": "iPhone",
+    "appName": "Netscape",
+    "appVersion": "5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBAV/499.0.0.53.105;FBBV/693867054;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/3;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/697301994]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Ireland",
+    "city": "Dublin",
+    "location": {
+      "latitude": "53.34418",
+      "longitude": "-6.26445"
+    },
+    "ip_address": "31.13.127.9",
+    "timestamp": "2025-03-29T07:26:57.942Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6 Build/SQ3A.220705.004; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/407.0.0.0.65;] Edg/133.0.0.0",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; Pixel 6 Build/SQ3A.220705.004; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/407.0.0.0.65;] Edg/133.0.0.0",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Dallas",
+    "location": {
+      "latitude": "32.77822",
+      "longitude": "-96.79512"
+    },
+    "ip_address": "173.252.87.5",
+    "timestamp": "2025-03-29T07:26:58.984Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; MX-A10R Build/S00812; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.105 Mobile Safari/537.36 [FBAN/FB4A;FBAV/505.0.0.57.45;FBBV/710155856;FBDM/{density=1.375,width=800,height=1220};FBLC/en_US;FBRV/712723056;FBCR/Gen Mobile;FBMF/Maxwest;FBBD/Maxwest;FBPN/com.facebook.katana;FBDV/MX-A10R;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
+    "platform": "Linux armv8l",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 12; MX-A10R Build/S00812; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.105 Mobile Safari/537.36 [FBAN/FB4A;FBAV/505.0.0.57.45;FBBV/710155856;FBDM/{density=1.375,width=800,height=1220};FBLC/en_US;FBRV/712723056;FBCR/Gen Mobile;FBMF/Maxwest;FBBD/Maxwest;FBPN/com.facebook.katana;FBDV/MX-A10R;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "United States",
+    "city": "Menlo Park",
+    "location": {
+      "latitude": "37.48221",
+      "longitude": "-122.15049"
+    },
+    "ip_address": "173.252.127.32",
+    "timestamp": "2025-03-29T07:27:10.818Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-M127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36 Instagram 375.0.0.38.66 Android (33/13; 300dpi; 720x1465; samsung; SM-M127F; m12; exynos850; ar_AE; 718654944; IABMV/1)",
+    "platform": "Linux aarch64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 13; SM-M127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36 Instagram 375.0.0.38.66 Android (33/13; 300dpi; 720x1465; samsung; SM-M127F; m12; exynos850; ar_AE; 718654944; IABMV/1)",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.49273",
+      "longitude": "36.23882"
+    },
+    "ip_address": "5.0.227.163",
+    "timestamp": "2025-04-11T08:30:42.748Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Japan",
+    "city": "Tokyo",
+    "location": {
+      "latitude": "35.68467",
+      "longitude": "139.80881"
+    },
+    "ip_address": "138.199.21.202",
+    "timestamp": "2025-08-16T10:10:47.587Z"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Japan",
+    "city": "Tokyo",
+    "location": {
+      "latitude": "35.68467",
+      "longitude": "139.80881"
+    },
+    "ip_address": "138.199.21.202",
+    "timestamp": "2025-08-16T10:11:35.786Z",
+    "source": "love3 game"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Japan",
+    "city": "Tokyo",
+    "location": {
+      "latitude": "35.68467",
+      "longitude": "139.80881"
+    },
+    "ip_address": "138.199.21.202",
+    "timestamp": "2025-08-16T10:11:43.275Z",
+    "source": "love3 game"
+  }
+]
