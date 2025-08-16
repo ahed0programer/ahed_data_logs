@@ -270,5 +270,22 @@
     "ip_address": "5.155.33.229",
     "timestamp": "2025-08-16T13:04:16.332Z",
     "source": "love3 game"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+    "language": "en-US",
+    "vendor": "Google Inc.",
+    "country_name": "Syria",
+    "city": "Damascus",
+    "location": {
+      "latitude": "33.49273",
+      "longitude": "36.23882"
+    },
+    "ip_address": "5.155.33.229",
+    "timestamp": "2025-08-16T13:16:14.280Z",
+    "source": "love3 game"
   }
 ]
