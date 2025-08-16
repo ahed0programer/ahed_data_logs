@@ -202,5 +202,22 @@
     "ip_address": "5.155.33.229",
     "timestamp": "2025-08-16T12:59:51.415Z",
     "source": "love3 game"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+    "language": "ar",
+    "vendor": "Google Inc.",
+    "country_name": "Bulgaria",
+    "city": "Sofia",
+    "location": {
+      "latitude": "42.69718",
+      "longitude": "23.32433"
+    },
+    "ip_address": "217.142.21.129",
+    "timestamp": "2025-08-16T13:03:37.480Z",
+    "source": "love3 game"
   }
 ]
