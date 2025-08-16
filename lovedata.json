@@ -49,5 +49,22 @@
     "ip_address": "138.199.21.202",
     "timestamp": "2025-08-16T10:34:43.909Z",
     "source": "love3 game"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux x86_64",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+    "language": "ar-AE",
+    "vendor": "Google Inc.",
+    "country_name": "Japan",
+    "city": "Tokyo",
+    "location": {
+      "latitude": "35.68467",
+      "longitude": "139.80881"
+    },
+    "ip_address": "138.199.21.202",
+    "timestamp": "2025-08-16T10:34:55.996Z",
+    "source": "love3 game"
   }
 ]
